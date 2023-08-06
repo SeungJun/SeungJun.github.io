@@ -81,7 +81,7 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
@@ -299,8 +299,6 @@ collections:
     permalink: /projects/:path/
     output: true
 
-  futrue: true
-
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
@@ -415,3 +413,5 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+futrue: true

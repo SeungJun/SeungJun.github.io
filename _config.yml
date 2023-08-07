@@ -14,6 +14,9 @@
 # General settings
 # ---------------------------------------------------------------------------------------
 
+toc: true
+
+toc_sticky: true
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang: ko
@@ -81,7 +84,7 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
